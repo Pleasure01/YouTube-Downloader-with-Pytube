@@ -18,3 +18,12 @@ These are the following steps to build youtube video downloader project in pytho
 - Create display window
 - Create field to enter link
 - Create function to start downloading
+
+
+### 1. Import Libraries
+Start the project by importing the required modules.
+```
+from tkinter import *
+from pytube import YouTube
+```
+In this python project, we import Tkinter and pytube modules.
